@@ -1,9 +1,10 @@
 {
-  "name": "BepinExUtils",
+  "name": "AlwaysMist",
   "version_number": "0.0.8",
-  "website_url": "https://github.com/T2PeNBiX99wcoxKv3A4g/BepinEx-Utils",
-  "description": "Utils for BepinEx",
+  "website_url": "https://github.com/T2PeNBiX99wcoxKv3A4g/Always-Mist",
+  "description": "A mod let you enter the mist area again",
   "dependencies": [
-    "BepInEx-BepInExPack_Silksong-5.4.2303"
+    "BepInEx-BepInExPack_Silksong-5.4.2303",
+    "ykysnk-BepinExUtils-0.0.8"
   ]
 }
